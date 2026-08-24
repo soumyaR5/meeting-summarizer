@@ -26,6 +26,8 @@ Instead of manually listening to an entire meeting, the application provides a s
 
 ### Audio Upload
 
+<img width="1351" height="630" alt="image" src="https://github.com/user-attachments/assets/8aa3bd94-c465-42bb-ab36-b89228a15c1a" />
+
 Users can upload meeting audio files through the frontend.
 
 Supported audio formats include:
