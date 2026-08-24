@@ -8,6 +8,10 @@ The application accepts a meeting audio file, converts and processes the audio w
 - Key Decisions
 - Tasks to Complete / Action Items
 
+## Demo Video
+
+[▶️ Watch the Meeting Summarizer Demo](./meeting-summarizer-demo.mp4)
+
 ---
 
 ## 1. Objective
