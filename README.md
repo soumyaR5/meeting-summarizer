@@ -43,6 +43,8 @@ The uploaded audio is transcribed using the Groq API with the Whisper model.
 
 ### Large Audio File Processing
 
+<img width="1110" height="661" alt="image" src="https://github.com/user-attachments/assets/3f160d2c-9303-4ae0-9bc6-f1d9cfe6adad" />
+
 Large audio files can exceed the API request size limit.
 
 To handle such files, the application:
@@ -59,8 +61,12 @@ The complete transcript is passed to Google Gemini for analysis.
 The model generates:
 
 - A concise meeting summary
+<img width="1352" height="630" alt="image" src="https://github.com/user-attachments/assets/eaf0db5a-5c04-4eb8-9676-16072a7cee2c" />
+
 - Key decisions
+
 - Tasks/action items
+<img width="1352" height="632" alt="image" src="https://github.com/user-attachments/assets/4b588c83-2fc2-4b3c-94be-a3d054a865fe" />
 
 ### Web Interface
 
