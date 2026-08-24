@@ -1,5 +1,6 @@
 # Meeting Summarizer
 
+## Demo Video
 https://github.com/user-attachments/assets/407f3694-1e98-4033-87a5-aeeaaf3e4e8f
 
 
@@ -10,10 +11,6 @@ The application accepts a meeting audio file, converts and processes the audio w
 - Summarized Transcript
 - Key Decisions
 - Tasks to Complete / Action Items
-
-## Demo Video
-
-[▶️ Watch the Meeting Summarizer Demo](./DEMO-VIDEO-MEETING.mp4)
 
 ---
 
