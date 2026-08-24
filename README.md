@@ -10,7 +10,7 @@ The application accepts a meeting audio file, converts and processes the audio w
 
 ## Demo Video
 
-[▶️ Watch the Meeting Summarizer Demo](./meeting-summarizer-demo.mp4)
+[▶️ Watch the Meeting Summarizer Demo](./DEMO-VIDEO-MEETING.mp4)
 
 ---
 
