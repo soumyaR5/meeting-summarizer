@@ -1,5 +1,8 @@
 # Meeting Summarizer
 
+https://github.com/user-attachments/assets/407f3694-1e98-4033-87a5-aeeaaf3e4e8f
+
+
 A web-based Meeting Summarizer that transcribes meeting audio and generates an action-oriented summary using speech-to-text and an LLM.
 
 The application accepts a meeting audio file, converts and processes the audio when required, generates a transcript using Groq Whisper, and analyzes the transcript using Google Gemini to extract:
